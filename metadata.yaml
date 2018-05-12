@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41290#Arbuthnotiana--The-Story-of-the-St.-Alb-ns-Ghost--1712--A-Catalogue-of-Dr.-Arbuthnot-s-Librar_
 gutenberg_issued: '2012-11-05'
 gutenberg_type: Text
 identifiers:
