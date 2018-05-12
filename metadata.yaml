@@ -1,0 +1,33 @@
+_repo: Arbuthnotiana--The-Story-of-the-St.-Alb-ns-Ghost--1712--A-Catalogue-of-Dr.-Arbuthnot-s-Librar__41290
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Köster, Patricia
+    alias: Koster, Patricia
+    birthdate: 1932
+    gutenberg_agent_id: '43248'
+    url: http://www.gutenberg.org/2009/agents/43248
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41290'
+  lccn: '73620545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Private libraries -- England -- Catalogs'
+- !lcsh 'Great Britain -- Politics and government -- 1702-1714 -- Pamphlets'
+- !lcsh 'Early printed books -- England -- Bibliography -- Catalogs'
+- !lcsh 'Great Britain -- Politics and government -- 1702-1714 -- Humor'
+- !lcsh 'Arbuthnot, John, 1667-1735 -- Library -- Catalogs'
+- !lcsh 'Satire, English -- Bibliography -- Catalogs'
+- !lcc 'DA'
+title: 'Arbuthnotiana: The Story of the St. Alb-ns Ghost (1712) A Catalogue of Dr.
+  Arbuthnot''s Library (1779)'
+url: http://www.gutenberg.org/ebooks/41290
